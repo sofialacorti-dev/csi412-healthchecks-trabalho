@@ -2,8 +2,8 @@
 
 ## Integrantes
 
-- Sofia Lacorti ([@sofialacorti-dev](https://github.com/sofialacorti-dev))
-- Maria ([@mariacrd1](https://github.com/mariacrd1))
+- Sofia Lacorti Oliveira ([@sofialacorti-dev](https://github.com/sofialacorti-dev))
+- Maria Clara Rezende Dias ([@mariacrd1](https://github.com/mariacrd1))
 
 ## Software analisado
 
