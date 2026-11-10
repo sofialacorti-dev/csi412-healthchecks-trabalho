@@ -2,8 +2,8 @@
 
 ## Integrantes
 
-- Nome 1: [SEU NOME]
-- Nome 2: [NOME DA AMIGA]
+- Sofia Lacorti ([@sofialacorti-dev](https://github.com/sofialacorti-dev))
+- Maria ([@mariacrd1](https://github.com/mariacrd1))
 
 ## Software analisado
 
