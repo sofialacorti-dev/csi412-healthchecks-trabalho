@@ -43,3 +43,8 @@ Thumbs.db
 # Django
 *.log
 static-collected/
+
+# Node / Vite
+node_modules/
+dist/
+.vite/

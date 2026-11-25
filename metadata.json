@@ -1,0 +1,6 @@
+{
+  "name": "Healthchecks & Software Archaeology",
+  "description": "Cron job monitoring platform inspired by Healthchecks and CSI412 Software Archaeology project by Sofia Lacorti and Maria Clara Rezende Dias.",
+  "requestPermissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
